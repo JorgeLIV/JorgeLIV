@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy [TuNombre]</h1>
+<h1 align="center">👋 ¡Hola! Soy Jorge</h1>
 
 <p align="center">
   Desarrollador apasionado por la tecnología, la automatización y las soluciones creativas. 
